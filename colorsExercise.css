@@ -1,0 +1,60 @@
+h1 {
+    /* name */
+    /* red */
+    color: purple;
+    background-color: red;
+}
+
+h2 {    
+    /* hexadecimal */
+    /* orange */
+    color: #ff0000;
+    background-color: #ffa500;
+}
+
+h3 {
+    /* hex shorthand */
+    /* yellow */
+    color: #f60;
+    background-color: #ff0;
+}
+
+h4 {
+    /* hex with transparency */
+    /* green */
+    color: #0410bf85;
+    background-color: #00800087;
+}
+
+h5 {
+    /* hex shorthand with transparency */
+    /* blue */
+    color: #d33b;
+    background-color: #00f8;
+}
+
+h6 {
+    /* rgb */
+    /* indigo */
+    color: rgb(233, 229, 235);
+    background-color: rgb(75, 0, 130);
+}
+
+p {
+    /* rgba */
+    /* violet */
+    color: rgba(45, 89, 222, 0.7);
+    background-color: rgba(238, 130, 238, 0.8);
+}
+
+#hotPink {
+    color: hotpink;
+}
+
+#peachPuff {
+    background-color: peachpuff;
+}
+
+.LI {
+    border: 5px solid green;
+}
